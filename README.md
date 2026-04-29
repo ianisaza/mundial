@@ -21,7 +21,7 @@ En resumen, este proyecto demuestra cómo trabajar con estructuras de datos bás
 
 • Daniel Gomez Yepes
 
-• Ian Isaza Bermude
+• Ian Isaza Bermudez
 
 
 
