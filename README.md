@@ -1,5 +1,5 @@
 # ARRAYS Y MATRICES EN JAVA 🖥️ 📊
-Este proyecto tiene como finalidad explicar y poner en práctica el uso de arrays y matrices en el lenguaje Java, conceptos fundamentales dentro de la lógica de programación.
+Este proyecto tiene como objetivo y finalidad, explicar y poner en práctica el uso de arrays y matrices en el lenguaje Java, conceptos fundamentales dentro de la lógica de programación.
 
 A través de este trabajo, se busca comprender cómo almacenar múltiples datos en una sola variable utilizando arrays (arreglos), así como organizar información en forma estructurada mediante matrices (arreglos bidimensionales).
 
