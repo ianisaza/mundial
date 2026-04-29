@@ -15,6 +15,7 @@ En resumen, este proyecto demuestra cómo trabajar con estructuras de datos bás
 * Creación y uso de matrices (arrays bidimensionales)
 * Recorrido de estructuras de datos
 * Manipulación básica de información en programas en codigo
+* Diferenciar entre Arrays y Matriz
 
 
 ### EL EQUIPO SE CONFORMA POR 🌐:
