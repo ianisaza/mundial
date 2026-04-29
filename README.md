@@ -3,7 +3,7 @@ Este proyecto tiene como finalidad explicar y poner en práctica el uso de array
 
 A través de este trabajo, se busca comprender cómo almacenar múltiples datos en una sola variable utilizando arrays (arreglos), así como organizar información en forma estructurada mediante matrices (arreglos bidimensionales).
 
-También se aborda el uso de estructuras de control para recorrer estos datos, permitiendo acceder, modificar e imprimir la información de manera eficiente.
+También se aborda el uso de estructuras de control para recorrer estos datos, permitiendo acceder, modificar e imprimir la información de forma eficiente.
 
 En resumen, este proyecto demuestra cómo trabajar con estructuras de datos básicas en Java, facilitando el manejo de información y fortaleciendo las bases necesarias para desarrollar programas más complejos.
 
