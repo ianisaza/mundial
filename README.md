@@ -5,7 +5,7 @@ A través de este trabajo, se busca comprender cómo almacenar múltiples datos 
 
 También se aborda el uso de estructuras de control para recorrer estos datos, permitiendo acceder, modificar e imprimir la información de manera eficiente.
 
-En resumen, este proyecto demuestra cómo trabajar con estructuras de datos básicas en Java, facilitando el manejo de información y fortaleciendo las bases necesarias para desarrollar programas más complejos.
+En resumen, este proyecto demuestra cómo trabajar con estructuras de datos básicas en Java, facilitando el manejo de información y fortaleciendo las bases necesarias para desarrollar programas más complejos
 
 
 ## ⚙️ ¿Qué se aprende en este proyecto?
