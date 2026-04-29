@@ -19,9 +19,9 @@ En resumen, este proyecto demuestra cómo trabajar con estructuras de datos bás
 
 ### EL EQUIPO SE CONFORMA POR 🌐:
 
-• Daniel Gomez Yepes
+• Daniel Gomez Yepes.
 
-• Ian Isaza Bermudez
+• Ian Isaza Bermudez.
 
 
 
