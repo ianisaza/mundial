@@ -36,4 +36,5 @@ En resumen, este proyecto demuestra cómo trabajar con estructuras de datos bás
 * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html → Documentación oficial de Java
 * https://es.khanacademy.org/computing/computer-programming/programming/arrays → Conceptos básicos
 * https://www.programiz.com/java-programming/arrays → Guía práctica en Java
-* https://www.inesem.es/revistadigital/informatica-y-tics/arrays → ¿Que es un array en programacion? 
+* https://www.inesem.es/revistadigital/informatica-y-tics/arrays → ¿Que es un array en programacion?
+* https://codegym.cc/es/groups/posts/es.142.matrices-en-java Matrices En Java
