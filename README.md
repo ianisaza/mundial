@@ -14,7 +14,7 @@ En resumen, este proyecto demuestra cómo trabajar con estructuras de datos bás
 * Uso de índices para acceder a los elementos
 * Creación y uso de matrices (arrays bidimensionales)
 * Recorrido de estructuras de datos
-* Manipulación básica de información en programas
+* Manipulación básica de información en programas en codigo
 
 
 ### EL EQUIPO SE CONFORMA POR 🌐:
