@@ -34,7 +34,7 @@ En resumen, este proyecto demuestra cómo trabajar con estructuras de datos bás
 * https://www.geeksforgeeks.org/arrays-in-java/ → Explicación completa de arrays
 * https://www.geeksforgeeks.org/multidimensional-arrays-in-java/ → Arrays multidimensionales (matrices)
 * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html → Documentación oficial de Java
-* https://es.khanacademy.org/computing/computer-programming/programming/arrays → Conceptos básicos
+* https://www.datacamp.com/es/doc/java/defining-and-initializing-arrays Definir E inicializar Matrices
 * https://www.programiz.com/java-programming/arrays → Guía práctica en Java
 * https://www.inesem.es/revistadigital/informatica-y-tics/arrays → ¿Que es un array en programacion?
 * https://codegym.cc/es/groups/posts/es.142.matrices-en-java Matrices En Java
